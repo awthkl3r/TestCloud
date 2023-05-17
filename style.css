@@ -1,0 +1,29 @@
+body{
+	display: block;
+	margin: 0;
+	padding: 0;
+	width: 100vw;
+	height: 100vh;
+}
+
+btn-container{
+/*	display: flex;*/
+	/*width: 100vw;
+	height: 100vh;*/
+	/*justify-content: center;
+	align-items: center;*/
+}
+
+button{
+	background: indianred;
+	width: 300px;
+	height: 250px;
+	color: white;
+	font-size: 40px;
+}
+
+.num{
+	position: absolute;
+	font-size: 250px;
+	right: 500px;
+}
